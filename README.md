@@ -1,3 +1,4 @@
 # Forex Trend Forecast
 
-Using multidimensional LSTM neural networks to create a forecast for the trend of EUR/USD Forex Pair.
+A project that tries to forecast if the price of EUR/USD Forex pair is going upwards,downwards or sideways utilizing multidimensional
+LSTM neural networks.
